@@ -1,0 +1,3 @@
+waybar &
+
+nm-applet --indicator &
